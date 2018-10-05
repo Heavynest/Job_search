@@ -1,0 +1,11 @@
+.fixed-bottom.tabbar{
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+
+.fixed-header.am-navList{
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
